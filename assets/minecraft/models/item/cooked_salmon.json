@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_salmon"
+  },
+  "display": {
+    "ground": {
+      "rotation": [ 0, 0, -45],
+      "translation": [ 0, -1, 0],
+      "scale": [ 1.5, 1.5, 1.5]
+    }
+  }
+}
