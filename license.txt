@@ -1,43 +1,48 @@
-ALL BASE TEXTURES FOLLOW THIS LICENSE BELOW:
-########################################################
+------Alli's Chaos Resource Pack License------
+#################################################
+BY USING ALLI'S CHAOS YOU AGREE TO THESE TERMS AND CONDITIONS. IF YOU DISTRIBUTE ALLI'S CHAOS IN ANY FORM, THIS LICENSE MUST BE INCLUDED INSIDE OF THE ZIP FILE.
 
-CLASSIC FAITHFUL 32X IS DISTRIBUTING WITH THESE GUIDELINES BELOW:
 
-Requirements:
+------Definitions------
+- The pack refers to any copyrightable work licensed under this license.
+- The Pack Developer refers to creator of the pack, registered under the account name TechnoAlli3 on CurseForge and Planet Minecraft.
 
-1: Give clear credit.
+------IMPORTANT------
+All textures located in the following folder(s) are created by the Pack Developer:
+- Block
+- Environment
+- Font
+- GUI
+- Item
+- Map
+- Misc
+- Mob Effect
+- Particle
 
-2: Link back to the PMC, CurseForge, or GitHub listings here:
-	https://www.planetminecraft.com/texture-pack/classic-faithful-32x/
-	https://github.com/classicfaithful/32x-jappa
-	https://www.curseforge.com/minecraft/texture-packs/classic-faithful-32x32
+All textures located in the following folder(s) are a joint creation of the Pack Developer and the Classic Faithful team (please see credits for more info):
+- Entity
 
-3: Ask on our discord above if you have a decent sized fanbase.
 
-4: Be honest about what you are using.
+------Distribution of The Pack------
+If you wish to distribute the pack (whether that is a modified copy or an identical copy), you have to comply with the following terms and conditions:
 
-5: No monetization, including link shorteners.
+- You are required to get permission from the Pack Developer.
+- You are required to have AT MINIMUM one of the following links posted CLEARLY in the credits:
+	> https://www.curseforge.com/minecraft/texture-packs/allis-chaos
+	> https://www.planetminecraft.com/texture-pack/alli-s-chaos/
+- You are prohibted from making money off of the pack in any form.
+- You are required to include this license in all distributed copies of this pack, REGARDLESS if it has been modified.
 
-Things that are fine as long as the guidelines above are being followed:
 
-1: Using them as placeholders.
+------Usage of The Pack------
+The pack may be used...
 
-2: Using as many textures as you've made yourself.
+- For personal usage.
+- For usage in servers.
+- For usage in streams or videos.
+- As a base for mod or map textures.
 
-3: Use as base for mod, add on, or adventure map textures.
 
-4: Content creators can distribute a modified copy.
-
-5: Map makers can provide modified copies to go along with it.
-
-6: Content creator edits made by fans are fine.
-
-Finally:
-
-1: If you are making an add on or mod support, we can make it official, just ask in our discord.
-
-2: You can use any of Vattic’s textures as long as his guidelines are being followed: https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8, under usage guidelines
-
-3: If we decide we don't want you using any textures from the pack then that is final. This will only be the case in unusual circumstances.
-
-4: These guidelines can be changed at any time.
+------Final Note------
+The Pack Developer has the final say over any distribution and usage of the pack. We have the right to deny anyone the distribution or re-use of the pack.
+If you do not follow the terms and conditions of this license, legal action may be taken.
